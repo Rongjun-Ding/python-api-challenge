@@ -1,0 +1,5 @@
+city,lat,lng,Max_Temp,Cloudiness,Humidity,Wind_Speed,country,date
+ostrovnoy,68.05,39.51,271.85,22,94,1.69,RU,1602952186
+mahebourg,-20.41,57.7,297.15,75,73,1.5,MU,1602952186
+qaanaaq,77.48,-69.36,273.57,98,88,2.59,GL,1602952186
+zhuhai,22.28,113.57,298.15,40,78,7.2,CN,1602952186
